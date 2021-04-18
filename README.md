@@ -1,7 +1,7 @@
 # salvo
 ##### **Salvo game - Accenture Academy JAVA**
 
-![alt text] (https://github.com/mlc91/salvo_game/src/main/resources/static/web/img/titlebannersalvo.png)
+![alt text](https://github.com/mlc91/salvo_game/src/main/resources/static/web/img/titlebannersalvo.png)
 ## :ship: :bomb:**INTRODUCTION**
 In this course, I created a multi-player online version of a Salvo-like game engine. Salvo was a pencil and paper game that was the basis for the popular Battleship game. The basic idea involves guessing where other players have hidden objects.
 My job was create a back-end game server to manage the games, scoring, and player profiles. I used the Spring Boot framework for the Java-based RESTful web server.
