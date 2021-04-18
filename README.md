@@ -1,5 +1,5 @@
 # salvo
-##### **Salvo game - Accenture Academy JAVA **
+##### **Salvo game - Accenture Academy JAVA**
 
 
 ## :ship: :bomb:**INTRODUCTION**
@@ -25,4 +25,4 @@ I learned how to develop a web application using Java RESTful web service to han
 ## :video_game:**INTERFACE**
 
 
-:octocat:# **Proyect developed by María Lucía Cuenca https://github.com/mlc91
+# :octocat:**Proyect developed by María Lucía Cuenca https://github.com/mlc91
