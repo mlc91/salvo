@@ -3,7 +3,7 @@
 ![titlebannersalvo](https://user-images.githubusercontent.com/66698971/115166192-362f5480-a088-11eb-8c84-f18ec73a0399.png)
 ## :ship: :bomb:**INTRODUCTION**
 In this course, I created a multi-player online version of a Salvo-like game engine. Salvo was a pencil and paper game that was the basis for the popular Battleship game. The basic idea involves guessing where other players have hidden objects.
-My job was create a back-end game server to manage the games, scoring, and player profiles. I used the Spring Boot framework for the Java-based RESTful web server.
+My job was to create a back-end game server to manage the games, scoring, and player profiles. I used the Spring Boot framework for the Java-based RESTful web server.
 
 I learned how to develop a web application using Java RESTful web service to handle multi-user access and communication, store persistent data and implement complex business logic. More specifically, I have learned to:
 
