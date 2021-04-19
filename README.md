@@ -11,7 +11,7 @@ I learned how to develop a web application using Java RESTful web service to han
    - implement a RESTful API to both the database and application services
    - apply modern-day Java programming concepts, such as lambdas, streams, and dependency injection
  - Use JavaScript Object Notation (JSON) data structures to:
-   - communicate between your application's JavaScript front-end and Java back-end
+   - communicate between application's JavaScript front-end and Java back-end
    - implement the "model" in a model-view-controller
 
 ## :wrench:**RESOURCES USED**
